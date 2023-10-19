@@ -1,3 +1,4 @@
+import { Calendar } from "./calendar";
 import { ClaimUsernameForm } from "./claim-username-form";
 
-export { ClaimUsernameForm }
+export { Calendar, ClaimUsernameForm }
